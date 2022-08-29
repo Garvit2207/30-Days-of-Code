@@ -38,4 +38,8 @@ cin>>arr[i];
 insertion_sort(arr, n);
 
     return 0;
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> e259fbb1ebed98066a8401d54915768d95373c3b

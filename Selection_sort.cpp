@@ -34,4 +34,8 @@ for(int i=0; i<n; i++){
 }
 selection_sort(arr, n);
     return 0;
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> e259fbb1ebed98066a8401d54915768d95373c3b

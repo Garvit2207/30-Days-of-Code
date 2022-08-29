@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 /* 28-08-2022 */
+=======
+/* 27-08-2022 */
+>>>>>>> e259fbb1ebed98066a8401d54915768d95373c3b
 #include <iostream>
 using namespace std;
 
@@ -32,4 +36,8 @@ int main(){
         cin>>arr[i];
     }
     bubble_sort(arr, n);
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> e259fbb1ebed98066a8401d54915768d95373c3b

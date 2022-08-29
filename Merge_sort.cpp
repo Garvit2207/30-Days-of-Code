@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 /* 27-08-2022 */
+=======
+/* 28-08-2022 */
+>>>>>>> e259fbb1ebed98066a8401d54915768d95373c3b
 #include <iostream>
 using namespace std;
 
@@ -73,4 +77,8 @@ obj.merge_sort(arr, 0, n-1);
 for(int i=0; i<n; i++){
     cout<<arr[i]<<" ";
 }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> e259fbb1ebed98066a8401d54915768d95373c3b
