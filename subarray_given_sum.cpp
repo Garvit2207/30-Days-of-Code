@@ -38,8 +38,10 @@ if (temp_count>count)
 
     }
 }
-
-cout<<count;
+if(sum!=k){
+    cout<<0;
+}
+else cout<<count;
 
 
     return 0;
