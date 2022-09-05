@@ -12,7 +12,7 @@ for (int i = 0; i < n; i++)
     cin>>arr[i];
 }
 
-int max_sum = 0;
+int max_sum = arr[0];
 int temp_sum= 0;
 
 for (int i = 0; i < n; i++)
